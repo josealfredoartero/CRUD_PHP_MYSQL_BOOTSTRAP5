@@ -30,7 +30,6 @@ class CamisaController{
             }else{
                 echo "error!!! Su registro ha fallado";
             }
-
         }
     }
     // metodo para consultar un registro
