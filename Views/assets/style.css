@@ -1,0 +1,7 @@
+.opciones{
+    display: flex;
+}
+
+button{
+    margin-right: 10px !important;
+}
